@@ -1,4 +1,4 @@
-package easy.tsak1
+package easy.task1
 
 class Task1 {
 
